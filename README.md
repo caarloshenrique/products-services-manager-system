@@ -1,4 +1,5 @@
 # products-services-manager-system
+:hammer: Projeto Java para um gerenciador de serviços e produtos
 
 ## Licença 📄
 
